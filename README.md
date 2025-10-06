@@ -91,27 +91,23 @@ FROM world.country
 WHERE Population > 50000000 AND Region = "Southern Europe";
 ```
 
-📸 Screenshots
+## **Screenshots**
 
-1️⃣ 01_show_databases.png
+01_show_databases.png
+<img width="1305" height="476" alt="Screenshot 2025-10-05 063633" src="https://github.com/user-attachments/assets/261e4864-44c3-426f-9783-95efda44e79b" />
 
+02_select_all_rows.png
+<img width="1897" height="419" alt="Screenshot 2025-10-05 064048" src="https://github.com/user-attachments/assets/d52b4dbb-2fac-476e-826d-9ef93af09ac5" />
 
-2️⃣ 02_select_all_rows.png
+03_count_rows.png
+<img width="1279" height="149" alt="Screenshot 2025-10-05 064242" src="https://github.com/user-attachments/assets/9a20ee3a-7f18-4d2d-b399-36e712f23f46" />
 
+04_order_by_population.png
+<img width="1297" height="406" alt="Screenshot 2025-10-05 064733" src="https://github.com/user-attachments/assets/e896270c-8e4a-406a-adf6-8ecde7d5983c" />
 
-3️⃣ 03_count_rows.png
+05_where_condition.png
+<img width="1554" height="191" alt="Screenshot 2025-10-05 065635" src="https://github.com/user-attachments/assets/e354ecae-d183-4996-884e-49963d539907" />
 
-
-4️⃣ 04_select_specific_columns.png
-
-
-5️⃣ 05_order_by_population.png
-
-
-6️⃣ 06_where_condition.png
-
-
-7️⃣ 07_challenge_query.png
 
 ## **Tools Used**
 
