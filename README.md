@@ -22,7 +22,7 @@ Retrieve specific columns using column aliases (AS)
 Sort query results in ascending or descending order
 
 ## **Architecture**
-<p align="center"> <img src="architecture/database-lab-architecture.png" alt="Database Architecture" width="650"/> </p>
+<img width="500" height="500" alt="a0f7e8eb-b30f-4bfc-bb24-247fb365ec78" src="https://github.com/user-attachments/assets/4b77eae5-9f02-4540-b6e1-42f27e31e359" />
 
 ## **Architecture Summary:**
 
