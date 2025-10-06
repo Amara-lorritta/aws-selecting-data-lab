@@ -134,6 +134,6 @@ Understood how data retrieval works in an AWS cloud-hosted MySQL environment
 Amarachi Emeziem
 Cloud Security & IT Support Specialist | AWS & Azure Certified
 
-🌐 LinkedIn
+LinkedIn: https://www.linkedin.com/in/amarachilemeziem/
 
  
